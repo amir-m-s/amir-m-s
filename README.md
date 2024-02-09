@@ -2,7 +2,7 @@
 
 ## I'm an EE Student and Frontend Developer
 
-- Looking forward to collaborate with opensource projects (software or hardware)
+- Looking forward to collaborate with more projects (software or hardware)
 
 ### Connect With Me
 
