@@ -8,7 +8,7 @@ I am an Electrical Engineering student with a focus on PCB design and frontend d
 
 ## Skills
 
-- **Electrical Engineering**: PCB Design, Circuit Analysis, Analog and Digital Electronics
+- **Electrical Engineering**: PCB Design, PCB Reverse Engineering, Circuit Analysis, Analog and Digital Electronics
 - **Programming Languages**: C/C++, Python, JavaScript, MATLAB
 - **CAD Tools**: HSPICE, PSPICE, Altium Designer, KiCAD, MATLAB(Simulink)
 - **Frontend Developement**: HTML, CSS, JS, ReactJS
