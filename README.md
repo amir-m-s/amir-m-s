@@ -1,17 +1,16 @@
 # Amir M. Salehi
 
-Electrical Engineering Student | PCB Design Enthusiast | Frontend Developer
+Electrical Engineering Student | PCB Design Enthusiast
 
 ## About Me
 
-I am an Electrical Engineering student with a focus on PCB design and frontend development. Currently pursuing Bachelor's degree at [Shahid Beheshti University, Tehran](https://sbu.ac.ir). Committed to leveraging technology to solve real-world problems and contribute to innovative projects. Proficient in CAD tools for designing complex circuit layouts and experienced in frontend technologies such as HTML, CSS, JS and ReactJS.
+I am an Electrical Engineering student with a focus on PCB design and circuit analysis. Currently pursuing a Bachelor's degree at [Shahid Beheshti University, Tehran](https://sbu.ac.ir), Tehran. Dedicated to leveraging technology to solve real-world problems and contribute to innovative projects. Proficient in CAD tools for designing complex circuit layouts and analyzing both analog and digital systems.
 
 ## Skills
 
 - **Electrical Engineering**: PCB Design, PCB Reverse Engineering, Circuit Analysis, Analog and Digital Electronics
 - **Programming Languages**: C/C++, Python, JavaScript, MATLAB
 - **CAD Tools**: HSPICE, PSPICE, Altium Designer, KiCAD, MATLAB(Simulink)
-- **Frontend Developement**: HTML, CSS, JS, ReactJS
 
 ## Education
 
