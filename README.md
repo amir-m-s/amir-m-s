@@ -1,6 +1,6 @@
 # Amir M. Salehi
 
-Electrical Engineering Student | PCB Design Enthusiast
+Electrical Engineering Student | Hardware Design Enthusiast
 
 ## About Me
 
@@ -10,7 +10,7 @@ I am an Electrical Engineering student with a focus on PCB design and circuit an
 
 - **Electrical Engineering**: PCB Design, PCB Reverse Engineering, Circuit Analysis, Analog and Digital Electronics
 - **Programming Languages**: C/C++, Python, JavaScript, MATLAB
-- **CAD Tools**: HSPICE, PSPICE, Altium Designer, KiCAD, MATLAB(Simulink)
+- **CAD Tools**: PSPICE, Altium Designer, Advanced Design System (ADS), MATLAB
 
 ## Education
 
@@ -21,6 +21,5 @@ I am an Electrical Engineering student with a focus on PCB design and circuit an
 - 💼 [Linkedin](https://www.linkedin.com/in/amirm-salehi)
 - 📱 [Telegram](https://t.me/amir_mh_salehi)
 - 📧 [amir.mh.salehi@gmail.com](mailto:amir.mh.salehi@gmail.com)
-- 🚀 [Website](https://amirm-salehi.ir)
 
 Feel free to reach out if you'd like to connect or collaborate on any projects!
