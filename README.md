@@ -9,8 +9,8 @@ I am an Electrical Engineering student with a focus on PCB design and circuit an
 ## Skills
 
 - **Electrical Engineering**: PCB Design, PCB Reverse Engineering, Circuit Analysis, Analog and Digital Electronics
-- **Programming Languages**: C/C++, Python, JavaScript, MATLAB
-- **CAD Tools**: PSPICE, Altium Designer, Advanced Design System (ADS), MATLAB
+- **Programming Languages**: C/C++, Python, MATLAB
+- **CAD Tools**: PSPICE, Altium Designer, Advanced Design System (ADS), Saturn PCB Toolkit, MATLAB
 
 ## Education
 
